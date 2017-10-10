@@ -1,0 +1,211 @@
+*{margin: 0;padding: 0;}
+html,body{
+	width: 100%;
+	height: 100%;
+}
+html{
+	font-size: 16px;
+}
+.box{
+	width: 100%;
+	height: 100%;
+}
+#read{position: relative;
+	width: 100%;
+	height: 100%;
+}
+#read>img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top:0;
+	left: 0;
+}
+#sjx{
+	position: absolute;
+	bottom: 6%;
+	left: 43%;
+	width: 10rem;
+	height: 10rem;
+	font-size: 10rem;
+	color: white;
+	font-weight: 900;
+	z-index: 999;
+	text-align: center;
+	line-height: 10rem;
+	/*opacity: 0;*/
+	/*display: none;*/
+}
+.swiper-container {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    .swiper-slide {
+      position: relative;
+    }
+    .login{
+    	width: 100%;
+    	height: 100%;
+    	background: url(../img/UbuHSsu5_data/o_1bq9csuncj2u1gu4ocm186qtia1a.gif)no-repeat;
+    	background-size:100% 100% ;
+    }
+.math{
+	position: relative;
+	float: left;
+	width: 95%;
+	height: 60%;
+	margin:25% 5% 0 0;
+}
+
+#photo2{
+	width: 100%;
+	height: 100%;
+}
+#jinqiu{
+	position: absolute;
+	color: gold;
+	font-size:3rem ;
+	font-weight: 900;
+	left: 35%;
+	top: 30%;
+	
+}
+#photo1{
+	position: absolute;
+	width:70%;
+	height: 30%;
+	left: 20%;
+	top: 38%;
+}
+#city{
+	position: absolute;
+	color: gold;
+	font-size:2rem ;
+	font-weight: 900;
+	left: 48%;
+	top: 66%;
+	
+}
+#time{
+	position: absolute;
+	color: gold;
+	font-size:2rem ;
+	font-weight: 900;
+	left: 46.5%;
+	top: 71%;
+	
+}
+#company{
+	position: absolute;
+	color: gold;
+	font-size:3rem ;
+	font-weight: 600;
+	left: 32%;
+	top: 100%;
+}
+#page2{position: relative;
+	width: 100%;
+	height: 100%;
+}
+#page2>img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top:0;
+	left: 0;
+}
+#visite{
+	position: relative;
+	    width: 100%;
+    	height: 100%;
+    	background: url(../img/UbuHSsu5_data/o_1bq9csuncj2u1gu4ocm186qtia1a.gif)no-repeat;
+    	background-size:100% 100% ;
+}
+#kuan{
+	position: absolute;
+	width: 90%;
+	height: 75%;
+	left: 5%;
+	top: 10%;
+	
+}
+#yuao{
+	position: absolute;
+	width: 35%;
+	height: 20%;
+	left: 4%;
+	top: 66%;
+}
+#english{
+	position: absolute;
+	width: 60%;
+	height: 10%;
+	left: 20%;
+	top: 7%;
+}
+#main{
+	position: absolute;
+	width: 70%;
+	height: 60%;
+	left: 15%;
+	top: 18%;
+	color: gold;
+	font-size: 3rem;
+}
+#time1{
+	margin-left: 60%;
+	margin-top: 2%;
+}
+#company1{
+	margin-left: 20%;
+	margin-top: 2%;
+}
+#page3{position: relative;
+	width: 100%;
+	height: 100%;
+}
+#page3>img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top:0;
+	left: 0;
+}
+#zhu{
+	position: absolute;
+	background: url(../img/UbuHSsu5_data/FpMG0xLev_mvUqvmuwDX1yU-30d8.png);
+	width: 60%;
+	height: 10%;
+	left: 20%;
+	top: 7%;
+	background-size:100% 100% ;
+	color: red;
+	font-size: 3rem;
+	text-align: center;
+	line-height: 255%;
+}
+#wenzi{
+	line-height: 150%;
+}
+#big-photo{
+	position: absolute;
+	width: 70%;
+	height: 30%;
+	top:60%;
+	left: 28%;
+}
+#small-photo{
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top:56%;
+	left: 2%;
+}
+#music{
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 3%;
+	right: 0%;
+}
